@@ -1,2 +1,2 @@
 # cleverlab
-Example code for showing how to use the cleverlab-sdk
+Example code to demonstrate how to use the cleverlab-sdk
